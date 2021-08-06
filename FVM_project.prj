@@ -1,0 +1,121 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="2339333664" file="D:\Google Drive\M2i\Ampliación de volúmenes finitos\Trabajo individual\GUI\FVM_project.prj" location="D:\Google Drive\M2i\Ampliación de volúmenes finitos\Trabajo individual\GUI" name="FVM_project" target="target.mlapps" target-name="Package App">
+    <param.appname>FVM_project</param.appname>
+    <param.authnamewatermark>Alberto Cuadra Lara</param.authnamewatermark>
+    <param.email>albertocuadralara@gmail.com</param.email>
+    <param.company />
+    <param.icon>${PROJECT_ROOT}\FVM_project_resources\icon_24.png</param.icon>
+    <param.icons>
+      <file>${PROJECT_ROOT}\FVM_project_resources\icon_48.png</file>
+      <file>${PROJECT_ROOT}\FVM_project_resources\icon_24.png</file>
+      <file>${PROJECT_ROOT}\FVM_project_resources\icon_16.png</file>
+    </param.icons>
+    <param.summary>Finite Volume Methods 1D for Linear Systems and Non Linear Equations. Developed in Matlab R2018a. Enjoy it!</param.summary>
+    <param.description>Finite Volume Methods 1D for Linear Systems and Non Linear Equations. Developed in Matlab R2018a. Please report any bug or suggestion. Enjoy it!</param.description>
+    <param.screenshot>C:\Users\Alber\OneDrive\Escritorio\logo_fvm.PNG</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>D:\Google Drive\M2i\Ampliación de volúmenes finitos\Trabajo individual\GUI</param.output>
+    <param.guid>5d53e122-dacd-4cc1-9ea3-f960d3815c3f</param.guid>
+    <unset>
+      <param.company />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\FVM_project.m</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\centred.m</file>
+      <file>${PROJECT_ROOT}\colours.m</file>
+      <file>${PROJECT_ROOT}\exact.m</file>
+      <file>${PROJECT_ROOT}\funw.m</file>
+      <file>${PROJECT_ROOT}\FVM_project.fig</file>
+      <file>${PROJECT_ROOT}\god.m</file>
+      <file>${PROJECT_ROOT}\god_btbc.m</file>
+      <file>${PROJECT_ROOT}\logo_m2i.jpg</file>
+      <file>${PROJECT_ROOT}\ncon_btbc.m</file>
+      <file>${PROJECT_ROOT}\plotfun.m</file>
+      <file>${PROJECT_ROOT}\plotfuncomp.m</file>
+      <file>${PROJECT_ROOT}\plotfunnoneq.m</file>
+      <file>${PROJECT_ROOT}\qscheme_btbc.m</file>
+      <file>${PROJECT_ROOT}\qscheme_llfr_btbc.m</file>
+      <file>${PROJECT_ROOT}\TabManager.m</file>
+      <file>${PROJECT_ROOT}\u0_cauchy.m</file>
+      <file>${PROJECT_ROOT}\w0_cauchy.m</file>
+      <file>${PROJECT_ROOT}\w_cauchy.m</file>
+    </fileset.depfun>
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\FVM1.pdf</file>
+      <file>${PROJECT_ROOT}\FVM2.pdf</file>
+    </fileset.resources>
+    <fileset.package />
+    <build-deliverables>
+      <file location="D:\Google Drive\M2i\Ampliación de volúmenes finitos\Trabajo individual" name="GUI" optional="false">D:\Google Drive\M2i\Ampliación de volúmenes finitos\Trabajo individual\GUI</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>D:\Archivos de programas\MATLAB\R2018a</root>
+      <toolboxes>
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabcoder" />
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="embeddedcoder" />
+        <toolbox name="gpucoder" />
+        <toolbox name="polyspacebugfinder" />
+      </toolboxes>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <gpucoder>
+          <enabled>true</enabled>
+        </gpucoder>
+      </toolbox>
+      <toolbox>
+        <polyspacebugfinder>
+          <enabled>true</enabled>
+        </polyspacebugfinder>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
