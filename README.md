@@ -3,7 +3,7 @@ Educational GUI for learning the differences between a different set of finite v
 
 ## Preview
 
-https://user-images.githubusercontent.com/29148824/128579134-7fc31b52-4583-4e7e-a7ee-0c7bd4798c68.mp4
+[Riemman problem](https://user-images.githubusercontent.com/29148824/128579134-7fc31b52-4583-4e7e-a7ee-0c7bd4798c68.mp4)
 
 https://user-images.githubusercontent.com/29148824/128579151-8304af03-5a1b-44b7-9233-082751e709f8.mp4
 
