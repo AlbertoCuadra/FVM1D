@@ -1,2 +1,9 @@
-# FVM 1D
-Finite Volume Method 1D for Linear Systems and Non Linear Equations. Developed in Matlab R2018a. [MATLAB File Exchange](https://es.mathworks.com/matlabcentral/fileexchange/67357-fvm_project?s_tid=prof_contriblnk)
+## FVM 1D
+Educational GUI for learning the differences between a different set of finite volume methods (linear and non-linear) for 1D. Developed in Matlab R2018a.
+
+## Preview
+
+
+
+
+[MATLAB File Exchange](https://es.mathworks.com/matlabcentral/fileexchange/67357-fvm_project?s_tid=prof_contriblnk)
