@@ -3,15 +3,26 @@ Educational GUI for learning the differences between a different set of finite v
 
 ## Preview
 
-[Riemman problem](https://user-images.githubusercontent.com/29148824/128579134-7fc31b52-4583-4e7e-a7ee-0c7bd4798c68.mp4)
 
-https://user-images.githubusercontent.com/29148824/128579151-8304af03-5a1b-44b7-9233-082751e709f8.mp4
 
-https://user-images.githubusercontent.com/29148824/128579152-4a3cdb0f-719a-464e-b785-31c3ad6932b0.mp4
+https://user-images.githubusercontent.com/29148824/128579658-79b56a21-39c9-465d-8968-9284cb30c58b.mp4
 
-https://user-images.githubusercontent.com/29148824/128579154-775639e8-83d8-4b4d-8eaf-5387790d8bcd.mp4
 
-https://user-images.githubusercontent.com/29148824/128579157-24c33ffc-c89d-4d09-8fb3-2e29e96c802b.mp4
+
+https://user-images.githubusercontent.com/29148824/128579663-12bb782e-bb16-41fe-98fa-0744d60aedb7.mp4
+
+
+
+https://user-images.githubusercontent.com/29148824/128579665-5d4da490-35a0-4a07-a182-b6f44f18c4b5.mp4
+
+
+
+https://user-images.githubusercontent.com/29148824/128579666-1f1132ab-ba29-4eb5-a205-f565c3dbce23.mp4
+
+
+
+https://user-images.githubusercontent.com/29148824/128579668-486ab92a-0bb1-4e5d-95b2-4e33c51f3eab.mp4
+
 
 
 
