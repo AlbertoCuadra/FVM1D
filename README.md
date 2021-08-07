@@ -1,5 +1,7 @@
 ## FVM 1D
-Educational graphical user interface (GUI) to learn the differences between a different set of finite volume methods (linear and non-linear). Developed in Matlab R2018a.
+Educational graphical user interface (GUI) to learn the differences between a different set of finite volume methods (linear and non-linear). 
+
+Developed in Matlab R2018a.
 
 ## Preview
 
