@@ -1,4 +1,5 @@
-## FVM 1D
+## FVM 1D  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/AlbertoCuadra/Combustion-PyToolbox/)   ![repo size](https://img.shields.io/github/repo-size/AlbertoCuadra/Combustion-PyToolbox) ![last modified](https://img.shields.io/github/last-commit/AlbertoCuadra/Combustion-PyToolbox)
+A Python based thermochemical code
 Educational graphical user interface (GUI) to learn the differences between a different set of finite volume methods (linear and non-linear). 
 
 Developed in Matlab R2018a.
