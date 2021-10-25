@@ -1,5 +1,7 @@
 ## FVM 1D
-[![matlab](https://img.shields.io/badge/MATLAB-File%20Exchange-blue)](https://es.mathworks.com/matlabcentral/fileexchange/67357-fvm_project?s_tid=prof_contriblnk) ![repo size](https://img.shields.io/github/repo-size/AlbertoCuadra/FVM_1D) ![last modified](https://img.shields.io/github/last-commit/AlbertoCuadra/FVM_1D)
+[![View Finite Volume Methods 1D - educational on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://es.mathworks.com/matlabcentral/fileexchange/67357-finite-volume-methods-1d-educational)
+![repo size](https://img.shields.io/github/repo-size/AlbertoCuadra/FVM_1D)
+![last modified](https://img.shields.io/github/last-commit/AlbertoCuadra/FVM_1D)
 
 Educational graphical user interface (GUI) to learn the differences between a different set of linear and non-linear finite volume methods. 
 
