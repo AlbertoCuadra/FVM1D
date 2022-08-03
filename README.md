@@ -4,6 +4,7 @@
 ![last modified](https://img.shields.io/github/last-commit/AlbertoCuadra/FVM_1D)
 
 Educational graphical user interface (GUI), developed in Matlab R2018a, to learn the differences between a different set of linear and non-linear finite volume methods. 
+
 Additionally, I have included the [report](report_ES.pdf) that I wrote along with the GUI.
 
 ## Preview
