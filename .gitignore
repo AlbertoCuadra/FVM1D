@@ -11,9 +11,11 @@
 # Compiled MEX binaries (all platforms)
 *.mex*
 
-# Packaged app and toolbox files
-*.mlappinstall
+# Packaged toolbox files
 *.mltbx
+
+# Project files
+*.prj
 
 # Generated helpsearch folders
 helpsearch*/
